@@ -1,0 +1,243 @@
+{
+  "user": [
+    {
+      "id": "1",
+      "username": "test1",
+      "password": "test1",
+      "email": "test1@gmail.com",
+      "passwordLatest": "test1",
+      "passwordLatestChange": "2021-01-01",
+      "role": "peserta",
+      "provinsi": "Banten"
+    }
+  ],
+
+  "kelompokMentoring": [
+    {
+      "id": "1",
+      "namaMentor": "Dody Supriyadi",
+      "namaLembaga": "BCF",
+      "fokusIsu": "HIV / AIDS",
+      "kategori": ["Cluster", "Desain Program"]
+    }
+  ],
+  "lembarKerja": [
+    {
+      "judul": "[Capacity Building] Hari Ke-4 Lembar Kerja - Topik: Sustainability and Sustainable Development",
+      "deskripsi": "Lembar kerja ini akan membahas seputar media sosial, sasaran, persona , dan strategi yang dapat diaplikasikan dalam melakukan pemasaran sosial program.",
+      "tautan": "bit.ly/LembarKerjaMiniTrainingDay5",
+      "batasSubmisi": "Selasa, 2 April 2024 13.55 WIB"
+    }
+  ],
+  "jadwalKegiatan": [
+    {
+      "judul": "Melangkah Bersama: Membimbing Menuju Masa Depan Pendidikan yang Lebih Baik",
+      "tipe": "Mentoring",
+      "tanggal": "Kamis, 25 April 2024",
+      "waktuMulai": "19.00 WIB",
+      "waktuSelesai": "21.00 WIB",
+      "lembaga": ["BCF", "BCF"],
+      "namaPemateri": "Dodi Supriyadi",
+      "deskripsi": "Agenda Melangkah Bersama: Membimbing Menuju Masa Depan Pendidikan yang Lebih Baik bertujuan untuk memberikan bimbingan kepada para pendidik, orangtua, dan pemangku kepentingan pendidikan lainnya dalam menghadapi tantangan dan peluang dalam sistem pendidikan saat ini. Melalui sesi-sesi interaktif, diskusi kelompok, dan presentasi, peserta akan mendapatkan pemahaman mendalam tentang pendekatan terbaik dalam mendidik dan membimbing generasi masa depan.",
+      "tautan": "https://tel.meet/wvc-qcnf-jtb?pin=3575142989705"
+    }
+  ],
+  "pengumuman": [
+    {
+      "kategori": ["Semua", "Berita", "LEAD", "BCF"],
+      "detailPengumuman": [
+        {
+          "kategori": "Semua",
+          "jumlah": 3
+        },
+        {
+          "kategori": "Berita",
+          "jumlah": 1
+        },
+        {
+          "kategori": "LEAD",
+          "jumlah": 1
+        },
+        {
+          "kategori": "BCF",
+          "jumlah": 1
+        }
+      ],
+      "title": "Jangan lupa untuk menghadiri kegiatan Mentoring Sosialisasi Pitching Day pada Senin, 10 April 2023 pukul 19.00 WIB. Catat informasinya ya",
+      "deskripsi": "Teman-teman jangan lupa untuk share momen onboarding nasional di media sosial IG/TikTok/LinkedIn dengan ketentuan di atas. Setiap misi harus disubmit pada link formulir misi untuk nantinya akhir semester diakumulasikan menjadi nilai tambahan bagi nilai akhir mahasiswa 🥰🙏",
+      "linkSubmit": "https://bit.ly/MISICLP8",
+      "batasWaktu": "Minggu, 7 April 2023 pukul 23.30 WIB",
+      "gambar": "https://cdn.idntimes.com/content-images/post/20241017/oshi-no-ko-episode-2-release-schedule-6607bfc26544dfde3eee55bce9f0577d_600x400.jpg"
+    }
+  ],
+
+  "pitchdeck": [
+    {
+      "judul": "Pitch Deck",
+      "batch": "2",
+      "deskripsi": "Pitch Deck merupakan presentasi singkat yang digunakan oleh para pendiri startup untuk meyakinkan investor agar mau berinvestasi pada startup yang mereka dirikan. Pitch Deck biasanya berisi informasi tentang produk, model bisnis, dan proyeksi keuangan dari startup tersebut.",
+      "tautanLembarKerja": "https://bit.ly/PitchDeckBatch2",
+      "batasSubmisi": "Minggu, 7 April 2023 pukul 23.30 WIB",
+      "terakhirDiubah": "Minggu, 7 April 2023 pukul 23.30 WIB",
+      "tautanPitchdeckPeserta": "https://bit.ly/PitchDeckPesertaBatch2"
+    }
+  ],
+
+  "pusatInformasi": [
+    {
+      "pertanyaan": "Apa itu BCF?",
+      "username": "test1",
+      "profile": "https://cdn.idntimes.com/content-images/post/20241017/oshi-no-ko-episode-2-release-schedule-6607bfc26544dfde3eee55bce9f0577d_600x400.jpg",
+      "tanggalUnggah": "2021-01-01",
+      "waktuUnggah": "19.00 WIB",
+      "komentar": [
+        {
+          "username": "test2",
+          "profile": "https://cdn.idntimes.com/content-images/post/20241017/oshi-no-ko-episode-2-release-schedule-6607bfc26544dfde3eee55bce9f0577d_600x400.jpg",
+          "tanggalUnggah": "2021-01-01",
+          "waktuUnggah": "19.01 WIB",
+          "komentar": "BCF adalah Badan Cerdas Fokus"
+        },
+        {
+          "username": "test3",
+          "profile": "https://cdn.idntimes.com/content-images/post/20241017/oshi-no-ko-episode-2-release-schedule-6607bfc26544dfde3eee55bce9f0577d_600x400.jpg",
+          "tanggalUnggah": "2021-01-01",
+          "waktuUnggah": "19.02 WIB",
+          "komentar": "BCF adalah Badan Cerdas Fokus"
+        }
+      ]
+    }
+  ],
+  "laporanBulanan": [
+    {
+      "progressKegiatan": {
+        "kegiatan": ["Mentoring", "Mini Training", "Pitch Deck"],
+        "wilayah": ["Banten", "Jawa Barat", "DKI Jakarta"],
+        "totalKegiatan": 3,
+        "totalPenerimaManfaat": 3000
+      },
+      "pendanaan": {
+        "tipeDonasi": ["Online", "Offline", "Offline"],
+        "nominal": [1000000, 2000000, 3000000],
+        "platform": ["DanaTeman", "BCF", "BCF"],
+        "total": 6000000
+      },
+      "pendanaanSponsorship": {
+        "tipeDonasi": ["Online", "Lainnya"],
+        "nominal": [1000000, 2000000],
+        "platform": ["DanaTeman", "BCF"],
+        "total": 3000000
+      },
+      "pendanaanDonorMitra": {
+        "tipeDonasi": ["Offline"],
+        "nominal": [1000000],
+        "platform": ["COD"],
+        "total": 100000
+      },
+      "relawan": [
+        {
+          "jumlah": 10,
+          "kendalaDanPenyelesaian": "Kendala yang dihadapi adalah kurangnya waktu dan tenaga, namun kami berhasil menyelesaikan kegiatan dengan baik",
+          "total": 10
+        }
+      ],
+      "desainProgram": {
+        "aspekPencapaian": ["Kualitas Materi", "Kualitas Pemateri"],
+        "keterangann": [
+          "Sudah memasuki tahapan akhir",
+          "Sudah memasuki tahapan akhir"
+        ]
+      },
+      "penjalinanKerjaSamaLembaga": {
+        "mediaMassa": {
+          "lembaga": ["BCF", "BCF"],
+          "status": ["Disetujui", "Pengajuan Proposal"],
+          "keterangan": [],
+          "total": 2
+        },
+        "pemeritahan": {
+          "lembaga": ["BCF", "BCF"],
+          "status": ["Disetujui", "Pengajuan Proposal"],
+          "keterangan": [],
+          "total": 2
+        },
+        "perusahaan": {
+          "lembaga": ["BCF", "BCF"],
+          "status": ["Ditolak", "Tahan Pesertujuan"],
+          "keterangan": [],
+          "total": 2
+        },
+        "organisasiLain": {
+          "lembaga": ["BCF", "BCF"],
+          "status": ["Disetujui", "Pengajuan Proposal"],
+          "keterangan": [],
+          "total": 2
+        },
+        "totalKerjasama": 8
+      },
+      "mediasosial": {
+        "instagram": {
+          "waktuPosting": ["Senin, 10 April 2023", "Selasa, 11 April 2023"],
+          "kontenPostingan": ["Profile BCF", "Profile BCF"],
+          "tautan": [
+            "https://www.instagram.com/bcf",
+            "https://www.instagram.com/bcf"
+          ],
+          "total": 2
+        },
+        "tiktok": {
+          "waktuPosting": ["Senin, 10 April 2023", "Selasa, 11 April 2023"],
+          "kontenPostingan": ["Profile BCF", "Profile BCF"],
+          "tautan": [
+            "https://www.instagram.com/bcf",
+            "https://www.instagram.com/bcf"
+          ],
+          "total": 2
+        },
+        "twitter": {
+          "waktuPosting": ["Senin, 10 April 2023", "Selasa, 11 April 2023"],
+          "kontenPostingan": ["Profile BCF", "Profile BCF"],
+          "tautan": [
+            "https://www.instagram.com/bcf",
+            "https://www.instagram.com/bcf"
+          ],
+          "total": 2
+        },
+        "facebook": {
+          "waktuPosting": ["Senin, 10 April 2023", "Selasa, 11 April 2023"],
+          "kontenPostingan": ["Profile BCF", "Profile BCF"],
+          "tautan": [
+            "https://www.instagram.com/bcf",
+            "https://www.instagram.com/bcf"
+          ],
+          "total": 2
+        },
+        "linkedIn": {
+          "waktuPosting": ["Senin, 10 April 2023", "Selasa, 11 April 2023"],
+          "kontenPostingan": ["Profile BCF", "Profile BCF"],
+          "tautan": [
+            "https://www.instagram.com/bcf",
+            "https://www.instagram.com/bcf"
+          ],
+          "total": 2
+        },
+        "whatsapp": {
+          "waktuPosting": [],
+          "kontenPostingan": [],
+          "tautan": [],
+          "total": 0
+        },
+        "artikelOnline": {
+          "waktuPosting": ["Senin, 10 April 2023", "Selasa, 11 April 2023"],
+          "kontenPostingan": ["Profile BCF", "Profile BCF"],
+          "tautan": [
+            "https://www.instagram.com/bcf",
+            "https://www.instagram.com/bcf"
+          ],
+          "total": 2
+        },
+        "totalPemasaran": 12
+      }
+    }
+  ]
+}
